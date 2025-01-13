@@ -4,7 +4,7 @@
 
 ![](hi.gif)
 
-👋 I’m @Gautam. <br>
+👋 I’m @Nikhil. <br>
 👀 I'm interested in CS & Games. <br>
 🌱 I'm currently pursuing B.Tech and gradually developing my interest in it. <br>
 📖 Learning Computer Science in academics. <br>
