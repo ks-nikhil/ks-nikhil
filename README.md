@@ -43,3 +43,6 @@
 [![Colab](https://img.shields.io/badge/Google_Colab-FF8C0A?style=for-the-badge&logo=google%20colab&logoColor=white)](https://colab.research.google.com/)
 
 
+![ks-nikhil's Stats](https://github-readme-stats.vercel.app/api?username=ks-nikhil&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![ks-nikhil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ks-nikhil&theme=vue-dark&hide_border=true)
+![ks-nikhil's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ks-nikhil&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
